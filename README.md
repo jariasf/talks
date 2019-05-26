@@ -12,6 +12,6 @@ Date  | Title | Event | Location |
 
 ## Practical Sessions
 
-Date  | Title | Event | Location |
-------------- | ------------- | ------------- | ------------- |
-2019 | Unsupervised Learning <ul><li><a target="_blank"  href="https://github.com/jariasf/talks/workshop/UNAP/Aprendizaje_No_Supervisado.ipynb">jupyter</a></li><li><a target="_blank"  href="https://colab.research.google.com/drive/12wuHK9o1hnsJq1d0uZyaQpwZcQSX31Uw">colab</a></li></ul> | [Workshop on Artificial Intelligence](https://sites.google.com/view/wia2019) | Puno, Peru
+Date  | Title | Code | Event | Location |
+------------- | ------------- | ------------- | ------------- | ------------- |
+2019 | Unsupervised Learning | <ul><li><a target="_blank"  href="https://github.com/jariasf/talks/blob/master/workshop/UNAP/Aprendizaje_No_Supervisado.ipynb">jupyter</a></li><li><a target="_blank"  href="https://colab.research.google.com/drive/12wuHK9o1hnsJq1d0uZyaQpwZcQSX31Uw">colab</a></li></ul> | [Workshop on Artificial Intelligence](https://sites.google.com/view/wia2019) | Puno, Peru
